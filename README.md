@@ -1,4 +1,4 @@
-###Team Project 
+<h1 style="font-size: 40px;">Team Project</h1> 
 
 Filmoteka [Kode](https://github.com/VolodymyrPyts/project4_project_team/tree/main/src) [Site](https://volodymyrpyts.github.io/project4_project_team/)
 
