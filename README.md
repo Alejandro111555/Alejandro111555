@@ -1,10 +1,10 @@
-<h1 style="font-size: 40px;">Team Project</h1> 
+<h1 style="font-size: 30px;">Team Project</h1> 
 
 Filmoteka [Kode](https://github.com/VolodymyrPyts/project4_project_team/tree/main/src) [Site](https://volodymyrpyts.github.io/project4_project_team/)
 
 So-yummy [Kode](https://github.com/Samusev-Anton/so-yummy) [Site](https://samusev-anton.github.io/so-yummy/welcome)
 
-My WebSites
+<h1 style="font-size: 30px;">My WebSites</h1>
 
 Web Studio [Kode](https://github.com/Alejandro111555/goit-markup-hw-07) [Site](https://alejandro111555.github.io/goit-markup-hw-07/index.html)
 
